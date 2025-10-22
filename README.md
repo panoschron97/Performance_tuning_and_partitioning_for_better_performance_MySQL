@@ -4,7 +4,7 @@ This repository provides scripts and resources for optimizing MySQL database per
 
 ## ✨ Features
 
--   **Performance Tuning**: SQL scripts demonstrating various performance tuning techniques applicable to MySQL databases.
+-   **Performance Tuning**: SQL script demonstrating various performance tuning techniques applicable to MySQL databases.
 -   **Partitioning**: Examples of different partitioning methods (HASH, KEY, LIST, RANGE, SUBPARTITION) to manage and query large datasets more efficiently.
 -   **Data Loading**: Sample CSV files and SQL scripts for loading data into partitioned tables.
 -   **Comprehensive Examples**: Detailed SQL scripts showcasing the implementation and benefits of performance tuning and partitioning.
