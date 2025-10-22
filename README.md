@@ -16,9 +16,6 @@ This repository provides scripts and resources for optimizing MySQL database per
 -   [🛠️ Installation](#️-installation)
 -   [🚀 Usage](#-usage)
 -   [🧰 Dependencies](#-dependencies)
--   [🤝 Contributing](#-contributing)
--   [📜 License](#-license)
--   [📧 Contact](#-contact)
 
 ## 🛠️ Installation
 
